@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SmartERPBackend.Tests/SmartERPBackend.Tests.csproj" />
+  <Project Path="SmartERPBackend/SmartERPBackend.csproj" />
+</Solution>
